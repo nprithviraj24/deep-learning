@@ -12,10 +12,9 @@ A repo entirely focused on deep learning. Tries to answer following questions.
 - Why do we need Deep learning?
 - How do we practically use deep learning?
 <br />
-**Domain Specific**
+<strong>Domain Specific</strong>
 <br />
 - Difference between image classification and object detection. 
-<br />
 <br />
 Apart from that, this repo will be constantly updated with any new trends in deep learning. I recommend follow experts in this domain. Andrew Ng, Andrian Rosebrock to name a few.
 <br />
