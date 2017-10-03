@@ -12,10 +12,11 @@ A repo entirely focused on deep learning. Tries to answer following questions.
 - Why do we need Deep learning?
 - How do we practically use deep learning?
 <br />
-#### Domain Specific
+**Domain Specific**
 <br />
 - Difference between image classification and object detection. 
-
+<br />
+<br />
 Apart from that, this repo will be constantly updated with any new trends in deep learning. I recommend follow experts in this domain. Andrew Ng, Andrian Rosebrock to name a few.
 <br />
 
@@ -26,12 +27,13 @@ It is quite safe to say Machine Learning approach towards building an intelligen
 Providing required parameters and selected features can be abysmal. 
     Deep learning, on the other hand, expects minimal input(s) from the user. It calculates and extracts by itself. It's like a system with a nimble brain.
 <br />
-###### Deep Learning is Neural Networks.** 
+###### Deep Learning is Neural Networks 
 - It is infact a convolutional Neural Network which is aimed to solve computer vision and image classification problems.  
 - Deep Learning is a self-taught learning and unsupervised feature extraction and learning.
 
 ### Why do we need Deep Learning?
 Emphatic use of Deep learning is in computer vision and image classification problems. Before jumping onto that, let's understand image classification and object detection. 
+<br />
     There is a great upsurge in computer vision field whose most typical applications are autonomous vehicles, smart video surveillance, facial detection and various people counting applications, fast and accurate object detection systems. These systems invole not only recognizing and classifying every object in an image, but localising each by drawing the appropriate bounding box and around it. This makes object detection a significantly harder task than it is trasitional computer vision predecessorr, image classification.
 
 ### How do we practically use deep learning?
