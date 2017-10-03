@@ -8,10 +8,12 @@ Asking the right questions.
 
 ## What is it all about?
 A repo entirely focused on deep learning. Tries to answer following questions.
-    - What is Deep Learning?
-    - Why do we need Deep learning?
-    - How do we practically use deep learning?
-    - 
+- What is Deep Learning?
+- Why do we need Deep learning?
+- How do we practically use deep learning?
+<br />
+#### Domain Specific
+- Difference between image classification and object detection. 
 
 Apart from that, this repo will be constantly updated with any new trends in deep learning. I recommend follow experts in this domain. Andrew Ng, Andrian Rosebrock to name a few.
 <br />
