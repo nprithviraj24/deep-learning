@@ -5,7 +5,6 @@ Asking the right questions.
     - Machine Learning: Definition and how it works. 
     - Neural Network.
 
-<br />
 
 ## What is it all about?
 A repo entirely focused on deep learning. Tries to answer following questions.
@@ -19,15 +18,14 @@ Apart from that, this repo will be constantly updated with any new trends in dee
 
 ### What is deep learning?
 It is quite safe to say Machine Learning approach towards building an intelligent system is close to being obsolete. Paraphrasing it, Machine learning requires a lot of input with selected features beforehand to begin with, which can be hectic and tiring job. Sure it can be used to develop intelligent systems which can automate lot of tasks.
-    ##### So whats the deal with ML?
-    Providing required parameters and selected features can be abysmal. 
+<br />
+##### So whats the deal with ML?
+Providing required parameters and selected features can be abysmal. 
     Deep learning, on the other hand, expects minimal input(s) from the user. It calculates and extracts by itself. It's like a system with a nimble brain.
-
-    **Deep Learning is Neural Networks.** 
-    <br />
-    It is infact a convolutional Neural Network which is aimed to solve computer vision and image classification problems.  
-
-    Deep Learning is a self-taught learning and unsupervised feature extraction and learning.
+<br />
+###### Deep Learning is Neural Networks.** 
+- It is infact a convolutional Neural Network which is aimed to solve computer vision and image classification problems.  
+- Deep Learning is a self-taught learning and unsupervised feature extraction and learning.
 
 ### Why do we need Deep Learning?
 Emphatic use of Deep learning is in computer vision and image classification problems. Before jumping onto that, let's understand image classification and object detection. 
