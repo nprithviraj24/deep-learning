@@ -16,6 +16,7 @@ A repo entirely focused on deep learning. Tries to answer following questions.
 <br />
 - Difference between image classification and object detection. 
 <br />
+<br />
 Apart from that, this repo will be constantly updated with any new trends in deep learning. I recommend follow experts in this domain. Andrew Ng, Andrian Rosebrock to name a few.
 <br />
 
@@ -36,3 +37,20 @@ Emphatic use of Deep learning is in computer vision and image classification pro
     There is a great upsurge in computer vision field whose most typical applications are autonomous vehicles, smart video surveillance, facial detection and various people counting applications, fast and accurate object detection systems. These systems invole not only recognizing and classifying every object in an image, but localising each by drawing the appropriate bounding box and around it. This makes object detection a significantly harder task than it is trasitional computer vision predecessorr, image classification.
 
 ### How do we practically use deep learning?
+As professor Jason Brownlee suggests, there are eight different applications of deep learning. 
+- Objects classification in images: <br />
+    Probably the most common use of deep learning. Involves image classification as well as object detection. 
+-  Automatic Handwriting Generation
+    This is a task where given a corpus of handwriting examples, generate new handwriting for a given word or phrase.
+
+    The handwriting is provided as a sequence of coordinates used by a pen when the handwriting samples were created. From this corpus the relationship between the pen movement and the letters is learned and new examples can be generated ad hoc.
+
+    What is fascinating is that different styles can be learned and then mimicked. I would love to see this work combined with some forensic hand writing analysis expertise. 
+
+-   Automatic Text Generation
+
+    This is an interesting task, where a corpus of text is learned and from this model new text is generated, word-by-word or character-by-character.
+
+    The model is capable of learning how to spell, punctuate, form sentiences and even capture the style of the text in the corpus.
+
+    Large recurrent neural networks are used to learn the relationship between items in the sequences of input strings and then generate text. More recently LSTM recurrent neural networks are demonstrating great success on this problem using a character-based model, generating one character at time.
