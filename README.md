@@ -54,3 +54,9 @@ As professor Jason Brownlee suggests, there are eight different applications of 
     The model is capable of learning how to spell, punctuate, form sentiences and even capture the style of the text in the corpus.
 
     Large recurrent neural networks are used to learn the relationship between items in the sequences of input strings and then generate text. More recently LSTM recurrent neural networks are demonstrating great success on this problem using a character-based model, generating one character at time.
+
+
+    # Deep learning with GP-GPU programming.
+    This can be achieved by using libraries:
+        - OpenCL
+        - CUDA
