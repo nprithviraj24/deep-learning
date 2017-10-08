@@ -38,17 +38,19 @@ Emphatic use of Deep learning is in computer vision and image classification pro
 
 ### How do we practically use deep learning?
 As professor Jason Brownlee suggests, there are eight different applications of deep learning. 
-- Objects classification in images: <br />
+-   <strong>Objects classification in images:</strong>
+<br />
     Probably the most common use of deep learning. Involves image classification as well as object detection. 
--  Automatic Handwriting Generation
+-  <strong>Automatic Handwriting Generation</strong>
+<br />
     This is a task where given a corpus of handwriting examples, generate new handwriting for a given word or phrase.
 
     The handwriting is provided as a sequence of coordinates used by a pen when the handwriting samples were created. From this corpus the relationship between the pen movement and the letters is learned and new examples can be generated ad hoc.
 
     What is fascinating is that different styles can be learned and then mimicked. I would love to see this work combined with some forensic hand writing analysis expertise. 
 
--   Automatic Text Generation
-
+-   <strong>Automatic Text Generation</strong>
+<br />
     This is an interesting task, where a corpus of text is learned and from this model new text is generated, word-by-word or character-by-character.
 
     The model is capable of learning how to spell, punctuate, form sentiences and even capture the style of the text in the corpus.
@@ -56,7 +58,11 @@ As professor Jason Brownlee suggests, there are eight different applications of 
     Large recurrent neural networks are used to learn the relationship between items in the sequences of input strings and then generate text. More recently LSTM recurrent neural networks are demonstrating great success on this problem using a character-based model, generating one character at time.
 
 
-    # Deep learning with GP-GPU programming.
+### Deep learning with GP-GPU programming.
+Today's consumer CPU have at most 8 cores. Server CPUs ranges from 4 to 24, and these cores support hyperthreading which can create 8 to 48 threads respectively. In neural network we apply almost same operations on different values of same array. Most of the operations that are computed in CPU can be run parallely and calculated independently then aggrerated thereafter. So we are optimizing this task,by using GP-GPU programming.  <br />
     This can be achieved by using libraries:
         - OpenCL
-        - CUDA
+        - CUDA <br /> 
+        and many more...
+    To refer a proper resources to practice parallel programming this [link](https://www.gitbook.com/book/leonardoaraujosantos/opencl/details) will be helpful. Only prerequisite is you must know MATLAB.
+
