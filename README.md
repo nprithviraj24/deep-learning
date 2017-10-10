@@ -59,10 +59,12 @@ As professor Jason Brownlee suggests, there are eight different applications of 
 
 
 ### Deep learning with GP-GPU programming.
-Today's consumer CPU have at most 8 cores. Server CPUs ranges from 4 to 24, and these cores support hyperthreading which can create 8 to 48 threads respectively. In neural network we apply almost same operations on different values of same array. Most of the operations that are computed in CPU can be run parallely and calculated independently then aggrerated thereafter. So we are optimizing this task,by using GP-GPU programming.  <br />
+Today's consumer CPUs have at most 8 cores. Server CPUs ranges from 4 to 24, and these cores support hyperthreading which can create 8 to 48 threads respectively. In neural network we apply almost same operations on different values of same array. Most of the operations that are computed in CPU can be run parallely and calculated independently then aggrerated thereafter. So we are optimizing this task,by using GP-GPU programming.  <br />
     This can be achieved by using libraries:
         - OpenCL
         - CUDA <br /> 
         and many more...
-    To refer a proper resources to practice parallel programming this [link](https://www.gitbook.com/book/leonardoaraujosantos/opencl/details) will be helpful. Only prerequisite is you must know MATLAB.
+    To refer a resources to practice parallel programming this [link](https://www.gitbook.com/book/leonardoaraujosantos/opencl/details) will be helpful. Only prerequisite is you must know MATLAB. <br />
+
+If you are geek and want to know more about this.. refer [this](http://vertex.ai/blog/bringing-deep-learning-to-opencl). This link is specific to OpenCL. 
 
