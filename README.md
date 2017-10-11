@@ -1,5 +1,11 @@
-# deep-learning
+# Deep Learning
 Asking the right questions.
+
+## Contents
+- Prerequisites
+- Questions
+- Additional resources
+
 
 ## Prerequisites:
     - Machine Learning: Definition and how it works. 
@@ -68,3 +74,10 @@ Today's consumer CPUs have at most 8 cores. Server CPUs ranges from 4 to 24, and
 
 If you are geek and want to know more about this.. refer [this](http://vertex.ai/blog/bringing-deep-learning-to-opencl). This link is specific to OpenCL. 
 
+
+
+## Additional Resources
+
+- [Understand Neural Network](http://datathings.com/blog/post/neuralnet/)
+- [Understand Convolutional Neural Network](https://brohrer.github.io/how_convolutional_neural_networks_work.html)
+- 
