@@ -24,6 +24,4 @@ Our main goal is to optimize the error, and make it as less as possible. There a
     - If w>OW, the loss becomes positive again, but the derivative is as well positive, meaning that any more increase in the weight, will increase the losses even more!!
     
  ## Convolution.  
-    Incidentally, the name convolutional comes from the fact that the operation in Equation<br />
-          σ(b+∑l=04∑m=04wl,maj+l,k+m) <br />
- is sometimes known as a convolution. A little more precisely, people sometimes write that equation as a1=σ(b+w∗a0)a1=σ(b+w∗a0), where a1a1 denotes the set of output activations from one feature map, a0a0 is the set of input activations, and ∗∗ is called a convolution operation.
+    
