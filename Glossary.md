@@ -23,10 +23,10 @@ In order to see the effect of the derivative, we can ask ourselves the following
  how much the total error will change if we change the internal weight of the neural network with a certain small value δW. For the sake of simplicity will consider δW=0.0001. in reality it should be much smaller!.
  
  ### Then how are weights adjusted?
- Let OW be the Optimal weight.
-     - If w<OW, we have a positive loss function, but the derivative is negative, meaning that an increase of weight will decrease the loss function.
-    - At w=OW, the loss is 0 and the derivative is 0, we reached a perfect model, nothing is needed.
-    - If w>OW, the loss becomes positive again, but the derivative is as well positive, meaning that any more increase in the weight, will increase the losses even more!!
+    Let OW be the Optimal weight:
+        - If w<OW, we have a positive loss function, but the derivative is negative, meaning that an increase of weight will decrease the loss function.
+        - At w=OW, the loss is 0 and the derivative is 0, we reached a perfect model, nothing is needed.
+        - If w>OW, the loss becomes positive again, but the derivative is as well positive, meaning that any more increase in the weight, will increase the losses even more!!
     
  ## Convolution.  
       When presented with a new image, the CNN doesn’t know exactly where these features will match so it tries them everywhere, in every possible position. In calculating the match to a feature across the whole image, we make it a filter. The math we use to do this is called convolution, from which Convolutional Neural Networks take their name.
