@@ -12,7 +12,7 @@ In this section we will deal with writing code to one of the specific framework:
 
 Now it's time to put the pedal to the metal and start developing some proper OpenCL applications.The basic steps would be the following:
 
-- Make sure you have a machine which supports OpenCL, as described above.
+- Make sure you have a machine which supports OpenCL.
 - Get the OpenCL headers and libraries included in the OpenCL SDK from your favourite vendor.
 - Start writing OpenCL code. That's the difficult part.
 - Tell the compiler where the OpenCL headers are located.
