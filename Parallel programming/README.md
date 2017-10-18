@@ -8,8 +8,15 @@ The models developed in deep learning are extremely resource hingry. There is im
 In this section we will deal with writing code to one of the specific framework: <strong>OpenCL</strong>
 <br />
 
-
 ### Developing OpenCL applications
 
+Now it's time to put the pedal to the metal and start developing some proper OpenCL applications.The basic steps would be the following:
 
+- Make sure you have a machine which supports OpenCL, as described above.
+- Get the OpenCL headers and libraries included in the OpenCL SDK from your favourite vendor.
+- Start writing OpenCL code. That's the difficult part.
+- Tell the compiler where the OpenCL headers are located.
+- Tell the linker where to find the OpenCL .lib files.
+- Build the fabulous application.
+- Run and prepare to be awed in amazement.
 
