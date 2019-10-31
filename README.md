@@ -5,7 +5,7 @@ Asking the right questions.
 - Prerequisites
 - Questions
 - Additional resources
-- Pytorch
+- [Pytorch](Pytorch.md)
 
 ## Prerequisites:
 - Machine Learning: Definition and how it works. 
@@ -40,28 +40,29 @@ Providing required parameters and selected features can be abysmal.
 ### Why do we need Deep Learning?
 Emphatic use of Deep learning is in computer vision and image classification problems. Before jumping onto that, let's understand image classification and object detection. 
 <br />
-    There is a great upsurge in computer vision field whose most typical applications are autonomous vehicles, smart video surveillance, facial detection and various people counting applications, fast and accurate object detection systems. These systems invole not only recognizing and classifying every object in an image, but localising each by drawing the appropriate bounding box and around it. This makes object detection a significantly harder task than it is trasitional computer vision predecessorr, image classification.
+There is a great upsurge in computer vision field whose most typical applications are autonomous vehicles, smart video surveillance, facial detection and various people counting applications, fast and accurate object detection systems. These systems invole not only recognizing and classifying every object in an image, but localising each by drawing the appropriate bounding box and around it. This makes object detection a significantly harder task than it is trasitional computer vision predecessorr, image classification.
 
 ### How do we practically use deep learning?
 As professor Jason Brownlee suggests, there are eight different applications of deep learning. 
--   <strong>Objects classification in images:</strong>
+<br />
+<strong>Objects classification in images:</strong>
 <br />
     Probably the most common use of deep learning. Involves image classification as well as object detection. 
--  <strong>Automatic Handwriting Generation</strong>
+<strong>Automatic Handwriting Generation</strong>
 <br />
-    This is a task where given a corpus of handwriting examples, generate new handwriting for a given word or phrase.
+This is a task where given a corpus of handwriting examples, generate new handwriting for a given word or phrase.
 
-    The handwriting is provided as a sequence of coordinates used by a pen when the handwriting samples were created. From this corpus the relationship between the pen movement and the letters is learned and new examples can be generated ad hoc.
+The handwriting is provided as a sequence of coordinates used by a pen when the handwriting samples were created. From this corpus the relationship between the pen movement and the letters is learned and new examples can be generated ad hoc.
 
-    What is fascinating is that different styles can be learned and then mimicked. I would love to see this work combined with some forensic hand writing analysis expertise. 
+What is fascinating is that different styles can be learned and then mimicked. I would love to see this work combined with some forensic hand writing analysis expertise. 
 
--   <strong>Automatic Text Generation</strong>
+<strong>Automatic Text Generation</strong>
 <br />
-    This is an interesting task, where a corpus of text is learned and from this model new text is generated, word-by-word or character-by-character.
+This is an interesting task, where a corpus of text is learned and from this model new text is generated, word-by-word or character-by-character.
 
-    The model is capable of learning how to spell, punctuate, form sentiences and even capture the style of the text in the corpus.
+The model is capable of learning how to spell, punctuate, form sentiences and even capture the style of the text in the corpus.
 
-    Large recurrent neural networks are used to learn the relationship between items in the sequences of input strings and then generate text. More recently LSTM recurrent neural networks are demonstrating great success on this problem using a character-based model, generating one character at time.
+Large recurrent neural networks are used to learn the relationship between items in the sequences of input strings and then generate text. More recently LSTM recurrent neural networks are demonstrating great success on this problem using a character-based model, generating one character at time.
 
 
 ### Deep learning with GP-GPU programming.
@@ -80,4 +81,3 @@ If you are geek and want to know more about this.. refer [this](http://vertex.ai
 
 - [Understand Neural Network](http://datathings.com/blog/post/neuralnet/)
 - [Understand Convolutional Neural Network](https://brohrer.github.io/how_convolutional_neural_networks_work.html)
-- 
