@@ -5,11 +5,11 @@ Asking the right questions.
 - Prerequisites
 - Questions
 - Additional resources
-
+- Pytorch
 
 ## Prerequisites:
-    - Machine Learning: Definition and how it works. 
-    - Neural Network.
+- Machine Learning: Definition and how it works. 
+- Neural Network.
 
 
 ## What is it all about?
