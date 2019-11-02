@@ -29,11 +29,11 @@ Apart from that, this repo will be constantly updated with any new trends in dee
 ### What is deep learning?
 It is quite safe to say Machine Learning approach towards building an intelligent system is close to being obsolete. Paraphrasing it, Machine learning requires a lot of input with selected features beforehand to begin with, which can be hectic and tiring job. Sure it can be used to develop intelligent systems which can automate lot of tasks.
 <br />
-##### So whats the deal with ML?
+
 Providing required parameters and selected features can be abysmal. 
     Deep learning, on the other hand, expects minimal input(s) from the user. It calculates and extracts by itself. It's like a system with a nimble brain.
 <br />
-###### Deep Learning is Neural Networks 
+#### Deep Learning is Neural Networks 
 - It is infact a convolutional Neural Network which is aimed to solve computer vision and image classification problems.  
 - Deep Learning is a self-taught learning and unsupervised feature extraction and learning.
 
