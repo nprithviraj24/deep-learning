@@ -103,3 +103,31 @@ x = self.softmax(x)
 Here the input tensor `x` is passed through each operation and reassigned to `x`. We can see that the input tensor goes through the hidden layer, then a sigmoid function, then the output layer, and finally the softmax function. It doesn't matter what you name the variables here, as long as the inputs and outputs of the operations match the network architecture you want to build. The order in which you define things in the `__init__` method doesn't matter, but you'll need to sequence the operations correctly in the `forward` method.
 
 Now we can create a `Network` object.
+
+model = Network()
+
+Modifying the weights and biases of `Network` object:
+<strong>model.hidden.bias.data.fill_(0)</strong> : To modify the biases.
+<strong>model.hidden.weight.data.normal_(std=0.01)</strong> : sample from random normal with standard dev = 0.01
+
+
+### nn.Sequential
+
+nn.Sequential is a platform for convenient way for passing tensor sequentially in an Neural network.
+
+Example of simple NN:
+
+```
+# Hyperparameters for our network
+input_size = 784
+hidden_sizes = [128, 64]
+output_size = 10
+
+# Build a feed-forward network
+model = nn.Sequential(nn.Linear(input_size, hidden_sizes[0]),
+                      nn.ReLU(),
+                      nn.Linear(hidden_sizes[0], hidden_sizes[1]),
+                      nn.ReLU(),
+                      nn.Linear(hidden_sizes[1], output_size),
+                      nn.Softmax(dim=1))
+```
