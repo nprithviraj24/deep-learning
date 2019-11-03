@@ -131,3 +131,18 @@ model = nn.Sequential(nn.Linear(input_size, hidden_sizes[0]),
                       nn.Linear(hidden_sizes[1], output_size),
                       nn.Softmax(dim=1))
 ```
+
+or
+
+With the use of <strong>OrderedDict</strong>, we can build and name each layers for a much succinct way to write code.
+
+```
+from collections import OrderedDict
+model = nn.Sequential(OrderedDict([
+                      ('fc1', nn.Linear(input_size, hidden_sizes[0])),
+                      ('relu1', nn.ReLU()),
+                      ('fc2', nn.Linear(hidden_sizes[0], hidden_sizes[1])),
+                      ('relu2', nn.ReLU()),
+                      ('output', nn.Linear(hidden_sizes[1], output_size)),
+                      ('softmax', nn.Softmax(dim=1))]))
+```
