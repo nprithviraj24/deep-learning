@@ -146,3 +146,18 @@ model = nn.Sequential(OrderedDict([
                       ('output', nn.Linear(hidden_sizes[1], output_size)),
                       ('softmax', nn.Softmax(dim=1))]))
 ```
+
+### Criterion
+
+##### CrossEntropy
+nn.CrossEntropy() function applies a softmax funtion to the output layer and then calculates the log loss.
+
+##### nn.NLLLoss()  - Negative Log Likelihood
+Applied to a softmax output layer to calculate the loss.
+
+
+### Testing the trained network
+```
+model.eval()
+```
+will set all the layers in your model to evaluation mode. This affects layers like dropout layers that turn "off" nodes during training with some probability, but should allow every node to be "on" for evaluation!
