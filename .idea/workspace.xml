@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="6df9b729-02f3-4ed8-a03b-9bd18da2dafa" />
+  <component name="ProjectId" id="1bQYsNvYWZR548siivDcO11Yxk0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="" />
+      <created>1588565989845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588565989845</updated>
+      <workItem from="1588565991938" duration="2371000" />
+      <workItem from="1588568844682" duration="256000" />
+    </task>
+    <task id="LOCAL-00001" summary="Replacing files">
+      <created>1588568874469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588568874469</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Replacing files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replacing files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2" timestamp="1588568871321">
+      <screen x="35" y="27" width="1885" height="1053" />
+    </state>
+    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588568871321" />
+  </component>
+</project>
