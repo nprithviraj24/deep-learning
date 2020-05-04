@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/cfg/coco.names" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/cfg/coco.names" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/detect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/nms/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/nms/build.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/scripts/yolov3_deepsort.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/scripts/yolov3_deepsort.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/yolov3_deepsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/yolov3_deepsort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Lottery Ticket Hypothesis.md" beforeDir="false" afterPath="$PROJECT_DIR$/papers/Lottery Ticket Hypothesis.md" afterDir="false" />
+    <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="deep_sort">
+      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588565989845</updated>
       <workItem from="1588565991938" duration="2371000" />
-      <workItem from="1588568844682" duration="6411000" />
+      <workItem from="1588568844682" duration="6826000" />
     </task>
     <task id="LOCAL-00001" summary="Replacing files">
       <created>1588568874469</created>
@@ -75,16 +67,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Replacing files" />
     <MESSAGE value="Additional changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Additional changes" />
+    <MESSAGE value="deep_sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="deep_sort" />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="331" width="575" height="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588571026756">
       <screen x="35" y="27" width="1885" height="1053" />
     </state>
     <state x="667" y="331" width="575" height="387" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588571026756" />
-    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2" timestamp="1588571086397">
+    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2" timestamp="1588590171525">
       <screen x="35" y="27" width="1885" height="1053" />
     </state>
-    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588571086397" />
+    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588590171525" />
   </component>
 </project>
