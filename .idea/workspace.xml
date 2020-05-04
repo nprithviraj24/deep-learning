@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="Additional changes">
-      <change afterPath="$PROJECT_DIR$/papers/Lottery Ticket Hypothesis.md" afterDir="false" />
+    <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Essence of Parallel Programming.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/FaceTex.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/papers/Photo-realistic Facial Texture Transfer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/papers/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/features representations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/cfg/coco.names" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/cfg/coco.names" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/nms/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/detector/YOLOv3/nms/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/scripts/yolov3_deepsort.sh" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/scripts/yolov3_deepsort.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch/yolov3_deepsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch/yolov3_deepsort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/Lottery Ticket Hypothesis.md" beforeDir="false" afterPath="$PROJECT_DIR$/papers/Lottery Ticket Hypothesis.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/models/deep_sort_pytorch" />
   </component>
   <component name="JupyterTrust" id="6df9b729-02f3-4ed8-a03b-9bd18da2dafa" />
   <component name="ProjectId" id="1bQYsNvYWZR548siivDcO11Yxk0" />
@@ -27,8 +30,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/models" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588565989845</updated>
       <workItem from="1588565991938" duration="2371000" />
-      <workItem from="1588568844682" duration="2207000" />
+      <workItem from="1588568844682" duration="6411000" />
     </task>
     <task id="LOCAL-00001" summary="Replacing files">
       <created>1588568874469</created>
@@ -50,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588568874469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Additional changes">
+      <created>1588571086555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588571086555</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,16 +74,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Replacing files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replacing files" />
+    <MESSAGE value="Additional changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Additional changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="331" width="575" height="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588571026756">
       <screen x="35" y="27" width="1885" height="1053" />
     </state>
     <state x="667" y="331" width="575" height="387" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588571026756" />
-    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2" timestamp="1588569605162">
+    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2" timestamp="1588571086397">
       <screen x="35" y="27" width="1885" height="1053" />
     </state>
-    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588569605162" />
+    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588571086397" />
   </component>
 </project>
