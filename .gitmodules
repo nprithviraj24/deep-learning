@@ -1,3 +1,3 @@
 [submodule "models/deep_sort_pytorch"]
 	path = models/deep_sort_pytorch
-	url = ssh://deep_sort_pytorch
+	url = https://github.com/nprithviraj24/deep_sort_pytorch.git

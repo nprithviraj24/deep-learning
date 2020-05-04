@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="deep_sort">
-      <change beforePath="$PROJECT_DIR$/models/deep_sort_pytorch" beforeDir="false" afterPath="$PROJECT_DIR$/models/deep_sort_pytorch" afterDir="false" />
-    </list>
+    <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588565989845</updated>
       <workItem from="1588565991938" duration="2371000" />
-      <workItem from="1588568844682" duration="6826000" />
+      <workItem from="1588568844682" duration="6947000" />
     </task>
     <task id="LOCAL-00001" summary="Replacing files">
       <created>1588568874469</created>
@@ -58,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588571086555</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deep_sort">
+      <created>1588590548985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588590548985</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,9 +80,13 @@
       <screen x="35" y="27" width="1885" height="1053" />
     </state>
     <state x="667" y="331" width="575" height="387" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588571026756" />
-    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2" timestamp="1588590171525">
+    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2" timestamp="1588590548934">
       <screen x="35" y="27" width="1885" height="1053" />
     </state>
-    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588590171525" />
+    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588590548934" />
+    <state x="555" y="261" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1588590567079">
+      <screen x="35" y="27" width="1885" height="1053" />
+    </state>
+    <state x="555" y="261" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588590567079" />
   </component>
 </project>
