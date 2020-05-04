@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="" />
+    <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/papers/1. Lottery Ticket Hypothesis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/Lottery Ticket Hypothesis.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/models/deep_sort_pytorch" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
-  <component name="JupyterTrust" id="6df9b729-02f3-4ed8-a03b-9bd18da2dafa" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="6df9b729-02f3-4ed8-a03b-9bd18da2dafa">
+    <option name="files">
+      <option value="papers/1. Lottery Ticket Hypothesis.ipynb" />
+    </option>
+  </component>
   <component name="ProjectId" id="1bQYsNvYWZR548siivDcO11Yxk0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,6 +56,7 @@
       <updated>1588565989845</updated>
       <workItem from="1588565991938" duration="2371000" />
       <workItem from="1588568844682" duration="6947000" />
+      <workItem from="1588605719291" duration="2031000" />
     </task>
     <task id="LOCAL-00001" summary="Replacing files">
       <created>1588568874469</created>
