@@ -55,6 +55,9 @@ Today's consumer CPUs have at most 8 cores. Server CPUs ranges from 4 to 24, and
 If you are geek and want to know more about this.. refer [this](http://vertex.ai/blog/bringing-deep-learning-to-opencl). This link is specific to OpenCL. 
 
 
+#### 
+
+
 
 #### Additional Resources
 

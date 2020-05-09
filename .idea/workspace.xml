@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/papers/1. Lottery Ticket Hypothesis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/Lottery Ticket Hypothesis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/basic_ml/prerequisite.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/basic_ml/prerequisite.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/1. Lottery Ticket Hypothesis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/papers/1. Lottery Ticket Hypothesis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +59,9 @@
       <workItem from="1588565991938" duration="2371000" />
       <workItem from="1588568844682" duration="6947000" />
       <workItem from="1588605719291" duration="2031000" />
+      <workItem from="1588676960549" duration="2101000" />
+      <workItem from="1589029013586" duration="4523000" />
+      <workItem from="1589038897351" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="Replacing files">
       <created>1588568874469</created>
@@ -100,6 +105,10 @@
       <screen x="35" y="27" width="1885" height="1053" />
     </state>
     <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588590548934" />
+    <state x="2423" y="193" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589038907156">
+      <screen x="1920" y="0" width="1440" height="900" />
+    </state>
+    <state x="2423" y="193" width="424" height="484" key="FileChooserDialogImpl/1920.0.1440.900/35.27.1885.1053@1920.0.1440.900" timestamp="1589038907156" />
     <state x="555" y="261" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1588590567079">
       <screen x="35" y="27" width="1885" height="1053" />
     </state>
