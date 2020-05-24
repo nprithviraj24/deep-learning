@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/papers/03. Energy Based Models.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/1. Lottery Ticket Hypothesis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/papers/01. Lottery Ticket Hypothesis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/2. Photo-realistic Facial Texture Transfer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/papers/02. Photo-realistic Facial Texture Transfer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/papers/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/03. Energy Based Models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/papers/03. Energy Based Models.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +60,7 @@
       <workItem from="1588676960549" duration="2101000" />
       <workItem from="1589029013586" duration="4523000" />
       <workItem from="1589038897351" duration="14000" />
-      <workItem from="1590244231193" duration="6607000" />
+      <workItem from="1590244231193" duration="8879000" />
     </task>
     <task id="LOCAL-00001" summary="Replacing files">
       <created>1588568874469</created>
@@ -88,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588590548985</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".">
+      <created>1590356894407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590356894407</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,24 +100,27 @@
     <MESSAGE value="Replacing files" />
     <MESSAGE value="Additional changes" />
     <MESSAGE value="deep_sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="deep_sort" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
     <state x="667" y="331" width="575" height="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588571026756">
       <screen x="35" y="27" width="1885" height="1053" />
     </state>
     <state x="667" y="331" width="575" height="387" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588571026756" />
-    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2" timestamp="1588590548934">
-      <screen x="35" y="27" width="1885" height="1053" />
+    <state x="2307" y="60" width="744" height="731" key="CommitChangelistDialog2" timestamp="1590356893605">
+      <screen x="1920" y="0" width="1440" height="900" />
     </state>
+    <state x="2307" y="60" width="744" height="731" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@1920.0.1440.900" timestamp="1590356893605" />
     <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588590548934" />
     <state x="2423" y="193" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589038907156">
       <screen x="1920" y="0" width="1440" height="900" />
     </state>
     <state x="2423" y="193" width="424" height="484" key="FileChooserDialogImpl/1920.0.1440.900/35.27.1885.1053@1920.0.1440.900" timestamp="1589038907156" />
-    <state x="555" y="261" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1588590567079">
-      <screen x="35" y="27" width="1885" height="1053" />
+    <state x="2317" y="200" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1590356904086">
+      <screen x="1920" y="0" width="1440" height="900" />
     </state>
+    <state x="2317" y="200" key="Vcs.Push.Dialog.v2/1920.0.1440.900/35.27.1885.1053@1920.0.1440.900" timestamp="1590356904086" />
     <state x="555" y="261" width="800" height="528" key="Vcs.Push.Dialog.v2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588590567079" />
   </component>
 </project>
