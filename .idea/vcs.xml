@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/models/deep_sort_pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reinforcement-learning" vcs="Git" />
   </component>
 </project>

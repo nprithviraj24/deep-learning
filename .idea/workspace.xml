@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/papers/03. Energy Based Models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/basic_ml/prerequisite.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/basic_ml/prerequisite.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/1. Lottery Ticket Hypothesis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/papers/1. Lottery Ticket Hypothesis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/1. Lottery Ticket Hypothesis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/papers/01. Lottery Ticket Hypothesis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/2. Photo-realistic Facial Texture Transfer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/papers/02. Photo-realistic Facial Texture Transfer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/papers/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +27,8 @@
   </component>
   <component name="JupyterTrust" id="6df9b729-02f3-4ed8-a03b-9bd18da2dafa">
     <option name="files">
-      <option value="papers/1. Lottery Ticket Hypothesis.ipynb" />
+      <option value="papers/01. Lottery Ticket Hypothesis.ipynb" />
+      <option value="papers/03. Energy Based Models.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1bQYsNvYWZR548siivDcO11Yxk0" />
@@ -62,6 +65,7 @@
       <workItem from="1588676960549" duration="2101000" />
       <workItem from="1589029013586" duration="4523000" />
       <workItem from="1589038897351" duration="14000" />
+      <workItem from="1590244231193" duration="6607000" />
     </task>
     <task id="LOCAL-00001" summary="Replacing files">
       <created>1588568874469</created>

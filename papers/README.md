@@ -9,6 +9,8 @@ In this repository, I share my views on some of the most highlighted conference 
  
  1. [The Lottery Ticket Hypothesis](https://openreview.net/forum?id=rJl-b3RcF7) (Paper of the year ICLR 2019)
  2. [Photo-realistic Facial Texture Transfer](https://arxiv.org/pdf/1706.04306.pdf)
+ 3. [Energy Based Models (ICLR 2020, and Yann Lecun - 2006)](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
+ 
 
 <break >
 
@@ -31,9 +33,15 @@ increasing the error and then eventually error rate decreases (test and train er
 This behaviour might primatively told us that larger networks tend to overfit. But maybe we didn't
 increase the size of the network enough that it would outperform the previous its smaller versions.
 
+Applicable to model size, training time, dataset size.
+
 ```Overfitting: Model is senstive to small training changes.```
 
 <!--
+Double Descent Phenomena: 
+As we increase the number of parameters in a neural network, the test error initially decreases, increases 
+and just as the model is able to fit the train set, undrgoes a second descent.
+
 Possible explanation:
 If dataset has as many as degrees of freedom as  the model, as if there are possible one-to-one correspondence
 -->
