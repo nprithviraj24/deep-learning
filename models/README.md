@@ -11,12 +11,12 @@ This sub-folder constitute my work in the field of deep learning. I explore and 
 
 ##### Discriminative
 
-1. Few-shot learning.
+1. Few-shot learning
 2. DeepSORT
 
 ##### Generative
-1. Basic Deep Generative Models
-2. Face Hallucination
+1. EDSR (Basic Deep Generative Models)
+2. Face Hallucination using limited set of unaligned pairs.
 
 #### Future Work
  

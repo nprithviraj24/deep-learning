@@ -1,4 +1,4 @@
-#### Deep Learning
+## Literature
 ... from the lens of an amateur researcher.
 
 ##### Motivation
@@ -9,7 +9,7 @@ In this repository, I share my views on some of the most highlighted conference 
  
  1. [The Lottery Ticket Hypothesis](https://openreview.net/forum?id=rJl-b3RcF7) (Paper of the year ICLR 2019)
  2. [Photo-realistic Facial Texture Transfer](https://arxiv.org/pdf/1706.04306.pdf)
- 3. [Energy Based Models (ICLR 2020, and Yann Lecun - 2006)](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
+ 3. [Energy Based Models (Yann Lecun 2006 and ICLR 2020)](http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf)
  
 
 <break >
