@@ -18,21 +18,3 @@ This sub-folder constitute my work in the field of deep learning. I explore and 
 1. EDSR (Basic Deep Generative Models)
 2. Face Hallucination using limited set of unaligned pairs.
 
-#### Future Work
- 
-1. Soon I will explore following frameworks for Reinforcement Learning.
- 
- - [ ] Horizon
- - [ ] SLM-Lab
- - [ ] RLgraph
-
-2. In the field of Natural Language Processing, I will explore some of 
-the transformer-based language models.
-
-- [ ] BERT
-- [ ] DistilBERT
-- [ ] Megatron
-- [ ] XLNET
-- [ ] RoBERTa
-- [ ] CTRL
-- [ ] GPT-2

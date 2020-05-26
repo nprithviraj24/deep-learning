@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/models/DeepSORT" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/models/deep_sort_pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/face-hallucination" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/reinforcement-learning" vcs="Git" />
   </component>
 </project>

@@ -1,48 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:udacity" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:udacity" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:tensorflow" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:udacity" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:tensorflow" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:intro-to-tensorflow" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ec7ef6aa-0bb8-4ae3-a659-f37a38e28e87" name="Default Changelist" comment=".">
-      <change afterPath="$PROJECT_DIR$/models/EDSR/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/.ipynb_checkpoints/humpback-whale-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/.ipynb_checkpoints/humpback-whale-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/.ipynb_checkpoints/humpback-with-results-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/.ipynb_checkpoints/humpback-with-results-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/humpback-whale.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/humpback-with-results.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/humpback-with-results.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res18-ep_15-TIME_2019-11-29 15:35:11.639278/events.out.tfevents.1575016511.guppy.cs.ait.ac.th.18686.0" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res18-ep_15-TIME_2019-11-29 15:35:11.639278/events.out.tfevents.1575016511.guppy.cs.ait.ac.th.18686.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res34-ep_15-TIME_2019-11-29 18:15:41.582178/00000/default/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res34-ep_15-TIME_2019-11-29 18:15:41.582178/00000/default/sprite.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res34-ep_15-TIME_2019-11-29 18:15:41.582178/00000/default/tensors.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res34-ep_15-TIME_2019-11-29 18:15:41.582178/00000/default/tensors.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res34-ep_15-TIME_2019-11-29 18:15:41.582178/events.out.tfevents.1575026141.guppy.cs.ait.ac.th.20526.0" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res34-ep_15-TIME_2019-11-29 18:15:41.582178/events.out.tfevents.1575026141.guppy.cs.ait.ac.th.20526.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res34-ep_15-TIME_2019-11-29 18:54:34.667932/00000/default/metadata.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res34-ep_15-TIME_2019-11-29 18:54:34.667932/00000/default/metadata.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res34-ep_15-TIME_2019-11-29 18:54:34.667932/00000/default/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res34-ep_15-TIME_2019-11-29 18:54:34.667932/00000/default/sprite.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res34-ep_15-TIME_2019-11-29 18:54:34.667932/00000/default/tensors.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res34-ep_15-TIME_2019-11-29 18:54:34.667932/00000/default/tensors.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res34-ep_15-TIME_2019-11-29 18:54:34.667932/events.out.tfevents.1575028474.guppy.cs.ait.ac.th.21158.0" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res34-ep_15-TIME_2019-11-29 18:54:34.667932/events.out.tfevents.1575028474.guppy.cs.ait.ac.th.21158.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res50--ep_15--D_1000--TIME_2019-11-29 21:47:25.522616/00000/default/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res50--ep_15--D_1000--TIME_2019-11-29 21:47:25.522616/00000/default/sprite.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res50--ep_15--D_1000--TIME_2019-11-29 21:47:25.522616/00000/default/tensors.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res50--ep_15--D_1000--TIME_2019-11-29 21:47:25.522616/00000/default/tensors.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res50--ep_15--D_1000--TIME_2019-11-29 21:47:25.522616/events.out.tfevents.1575038845.guppy.cs.ait.ac.th.22830.0" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res50--ep_15--D_1000--TIME_2019-11-29 21:47:25.522616/events.out.tfevents.1575038845.guppy.cs.ait.ac.th.22830.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res50--ep_15--D_1000--TIME_2019-11-29 21:47:25.522616/projector_config.pbtxt" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res50--ep_15--D_1000--TIME_2019-11-29 21:47:25.522616/projector_config.pbtxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res50-ep_15-TIME_2019-11-29 14:49:23.314126/events.out.tfevents.1575013763.guppy.cs.ait.ac.th.17997.0" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res50-ep_15-TIME_2019-11-29 14:49:23.314126/events.out.tfevents.1575013763.guppy.cs.ait.ac.th.17997.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res50-ep_15-TIME_2019-11-29 20:41:15.545819/00000/default/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res50-ep_15-TIME_2019-11-29 20:41:15.545819/00000/default/sprite.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res50-ep_15-TIME_2019-11-29 20:41:15.545819/00000/default/tensors.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res50-ep_15-TIME_2019-11-29 20:41:15.545819/00000/default/tensors.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res50-ep_15-TIME_2019-11-29 20:41:15.545819/events.out.tfevents.1575034875.guppy.cs.ait.ac.th.22209.0" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res50-ep_15-TIME_2019-11-29 20:41:15.545819/events.out.tfevents.1575034875.guppy.cs.ait.ac.th.22209.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/logs/res50-ep_15-TIME_2019-11-29 20:41:15.545819/projector_config.pbtxt" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/logs/res50-ep_15-TIME_2019-11-29 20:41:15.545819/projector_config.pbtxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/obama.png" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/obama.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/resnet-pytorch-files/bootstrap.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/resnet-pytorch-files/bootstrap.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/resnet-pytorch-files/bounding-box.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/resnet-pytorch-files/bounding-box.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/resnet-pytorch-files/exclude.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/resnet-pytorch-files/exclude.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/resnet-pytorch-files/mpiotte-bootstrap.model" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/resnet-pytorch-files/mpiotte-bootstrap.model" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/resnet-pytorch-files/mpiotte-standard.model" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/resnet-pytorch-files/mpiotte-standard.model" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/resnet-pytorch-files/p2h.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/resnet-pytorch-files/p2h.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/resnet-pytorch-files/rotate.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/resnet-pytorch-files/rotate.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/sample_submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/sample_submission.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/siamese_neural_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/siamese_neural_network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/submission.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/tb-test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/tb-test.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/train.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/few-shot-learning/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/Few Shot Learning using Triplet Loss/train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/03. Energy Based Models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/papers/03. Energy Based Models.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/papers/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +122,8 @@
       <workItem from="1589029013586" duration="4523000" />
       <workItem from="1589038897351" duration="14000" />
       <workItem from="1590244231193" duration="8925000" />
-      <workItem from="1590477626713" duration="2497000" />
+      <workItem from="1590477626713" duration="2861000" />
+      <workItem from="1590480574523" duration="282000" />
     </task>
     <task id="LOCAL-00001" summary="Replacing files">
       <created>1588568874469</created>
@@ -138,11 +160,30 @@
       <option name="project" value="LOCAL" />
       <updated>1590359145456</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <created>1590480212835</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590480212835</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Replacing files" />
@@ -156,11 +197,11 @@
       <screen x="35" y="27" width="1885" height="1053" />
     </state>
     <state x="667" y="331" width="575" height="387" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1588571026756" />
-    <state x="542" y="97" width="744" height="731" key="CommitChangelistDialog2" timestamp="1590478123222">
+    <state x="542" y="97" width="744" height="731" key="CommitChangelistDialog2" timestamp="1590480169759">
       <screen x="35" y="27" width="1885" height="1053" />
     </state>
     <state x="2307" y="60" width="744" height="731" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@1920.0.1440.900" timestamp="1590359145324" />
-    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1590478123222" />
+    <state x="542" y="97" width="826" height="855" key="CommitChangelistDialog2/1920.0.1440.900/35.27.1885.1053@35.27.1885.1053" timestamp="1590480169759" />
     <state x="2423" y="193" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589038907156">
       <screen x="1920" y="0" width="1440" height="900" />
     </state>
