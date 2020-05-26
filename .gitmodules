@@ -7,3 +7,6 @@
 [submodule "models/face-hallucination"]
 	path = models/face-hallucination
 	url = https://github.com/nprithviraj24/face-hallucination
+[submodule "models/DeepSORT"]
+	path = models/DeepSORT
+	url = https://github.com/nprithviraj24/deep_sort_pytorch
