@@ -4,3 +4,6 @@
 [submodule "reinforcement-learning"]
 	path = reinforcement-learning
 	url = https://github.com/nprithviraj24/reinforcement-learning
+[submodule "models/face-hallucination"]
+	path = models/face-hallucination
+	url = https://github.com/nprithviraj24/face-hallucination
